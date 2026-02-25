@@ -1,7 +1,7 @@
 {
-  "exportadoEm": "2026-02-25T18:55:29.044Z",
+  "exportadoEm": "2026-02-25T18:59:12.348Z",
   "totalProdutos": 1,
-  "totalMovimentos": 2,
+  "totalMovimentos": 1,
   "produtos": [
     {
       "id": "mm2bvmkxlifqt",
@@ -13,21 +13,6 @@
     }
   ],
   "movimentos": [
-    {
-      "id": "mm2e9u7ifehe4",
-      "data": "2026-02-25",
-      "tipo": "saida",
-      "fornecedor": "",
-      "solicitante": "asdasd",
-      "produtoId": "mm2bvmkxlifqt",
-      "produtoNome": "Adesivo Instantâneo 100g Tekbond",
-      "produtoFamilia": "TINTA, COLAS, SOLVENTES",
-      "quantidade": 1,
-      "custo": 10,
-      "total": 10,
-      "cliente": "DSADSA",
-      "criadoEm": "2026-02-25T18:55:27.534Z"
-    },
     {
       "id": "mm2dkidzy3pkz",
       "data": "2024-07-01",
